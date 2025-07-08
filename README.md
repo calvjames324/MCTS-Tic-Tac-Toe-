@@ -1,6 +1,9 @@
 # Monte Carlo Tree Search - Tic-Tac-Toe
 
-This project implements the Monte Carlo Tree Search (MCTS) algorithm for playing Tic-Tac-Toe. MCTS is a probabilistic search algorithm that combines random sampling of the decision space with tree search to find optimal decisions.
+This project implements the Monte Carlo Tree Search (MCTS) algorithm for playing Tic-Tac-Toe.
+
+For more information refer to the blog below:
+https://int8.io/monte-carlo-tree-search-beginners-guide/
 
 ## Project Structure
 
