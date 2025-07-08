@@ -51,7 +51,3 @@ const root = new Node(board);
 const [move, child] = mcts(root, 1000);  // 1000 iterations
 console.log(`Best move: ${move}, visits: ${child.visits}, win_rate: ${child.wins/child.visits}`);
 ```
-
-## License
-
-MIT 
