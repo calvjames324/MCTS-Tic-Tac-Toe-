@@ -1,0 +1,13 @@
+{
+  "name": "mcts-tictactoe",
+  "version": "1.0.0",
+  "description": "Monte Carlo Tree Search for Tic-Tac-Toe",
+  "main": "dist/example.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/example.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+} 
